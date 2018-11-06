@@ -18,6 +18,8 @@ void draw() {
       fill(#C300FA,150);
       ellipse(X,Y,75,75);
     
+    
+    
   X=X+bounce;
   
   if(X>width-10 || X<10)
