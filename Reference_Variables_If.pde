@@ -1,6 +1,6 @@
 int X=90;
 int Y= 90;
-int bounce= 900000000;
+int bounce= 90;
 
 void setup() {
   size(200,200);
